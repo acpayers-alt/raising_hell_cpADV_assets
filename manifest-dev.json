@@ -1,0 +1,12 @@
+{
+  "pack_version": "0.0.1-dev",
+  "channel": "dev",
+  "files": [
+    {
+      "path": "raising_hell/test/hello.txt",
+      "size": 12,
+      "sha256": "a948904f2f0f479b8f8197694b30184b0d2ed1c1cd2a1ec0fb85d299a192a447>",
+      "url": "https://<acpayers-alt.github.io/raising_hell_cpADV_assets/assets/raising_hell/test/hello.txt"
+    }
+  ]
+}
